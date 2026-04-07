@@ -2,13 +2,13 @@
 
 Desenvolvedor **Full Stack** com foco em construção de aplicações web, interfaces modernas e desenvolvimento de **APIs REST**.
 
-Tenho experiência com **Angular no front-end**, **C# no back-end**, integração entre sistemas, manutenção de funcionalidades e evolução de aplicações voltadas para regras de negócio.
+Tenho experiência com **Angular e Next.js no front-end**, **C# no back-end**, integração entre sistemas, manutenção de funcionalidades e evolução de aplicações voltadas para regras de negócio.
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Front-end:** Angular, HTML, CSS, JavaScript, TypeScript, Bootstrap
+- **Front-end:** Angular, HTML, CSS, JavaScript, TypeScript, Bootstrap e Tailwind
 - **Back-end:** C#, .NET, APIs REST
-- **Banco de dados:** SQL Server
+- **Banco de dados:** SQL Server e postgresql
 - **Versionamento:** Git e GitHub
 
 ## 💼 O que eu faço
