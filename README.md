@@ -1,21 +1,38 @@
 # Olá, eu sou Vinicius Oliveira 👋
 
-Desenvolvedor Full Stack com foco em **Next.js, React, Angular, C#, API REST, TailwindCSS, Bootstrap e Git**.  
-Gosto de criar interfaces modernas, responsivas e com boa experiência para o usuário.
+Desenvolvedor **Full Stack** com foco em construção de aplicações web, interfaces modernas e desenvolvimento de **APIs REST**.
 
-## 🚀 Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github)](https://skillicons.dev)
+Tenho experiência com **Angular no front-end**, **C# no back-end**, integração entre sistemas, manutenção de funcionalidades e evolução de aplicações voltadas para regras de negócio.
+
+## 🚀 Tecnologias e Ferramentas
+
+- **Front-end:** Angular, HTML, CSS, JavaScript, TypeScript, Bootstrap
+- **Back-end:** C#, .NET, APIs REST
+- **Banco de dados:** SQL Server
+- **Versionamento:** Git e GitHub
+
+## 💼 O que eu faço
+
+- Desenvolvimento de interfaces web responsivas e funcionais
+- Criação e manutenção de **APIs REST**
+- Integração entre front-end e back-end
+- Implementação de novas funcionalidades
+- Correção de bugs e melhoria de sistemas existentes
+- Organização de código e boas práticas de desenvolvimento
 
 ## 📌 Projeto em destaque
+
 ### Currículo Online
-Landing page pessoal desenvolvida para apresentar minhas habilidades, experiência e projetos.
+Landing page desenvolvida para apresentar meu perfil profissional, habilidades e projetos.
 
-🔗 Demo: https://viniciushub.github.io/meu-curriculo-online/
+🔗 Demo: [Acessar projeto](https://viniciushub.github.io/meu-curriculo-online/)
 
-## 📊 Estatísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciushub&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushub&layout=compact&theme=tokyonight)
+## 🎯 Objetivo
+
+Busco oportunidades como **Desenvolvedor Full Stack**, contribuindo com soluções escaláveis, interfaces de qualidade e sistemas bem estruturados.
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/viniciusgustavoti/
-- Email: vinispei2017@gmail.com
+
+- **GitHub:** [github.com/ViniciusHub](https://github.com/ViniciusHub)
+- **LinkedIn:** [https://www.linkedin.com/in/viniciusgustavoti/](https://www.linkedin.com/in/viniciusgustavoti/)
+- **Portfólio:** [viniciushub.github.io/meu-curriculo-online](https://viniciushub.github.io/meu-curriculo-online/)
