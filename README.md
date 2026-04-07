@@ -6,7 +6,7 @@ Tenho experiência com **Angular e Next.js no front-end**, **C# no back-end**, i
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Front-end:** Angular, HTML, CSS, JavaScript, TypeScript, Bootstrap e Tailwind
+- **Front-end:** Angular, Nextjs, HTML, CSS, JavaScript, TypeScript, Bootstrap e Tailwind
 - **Back-end:** C#, .NET, APIs REST
 - **Banco de dados:** SQL Server e postgresql
 - **Versionamento:** Git e GitHub
