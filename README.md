@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá, eu sou Vinicius Oliveira 👋
 
-<!--
-**ViniciusHub/ViniciusHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack com foco em **Next.js, React, Angular, C#, API REST, TailwindCSS, Bootstrap e Git**.  
+Gosto de criar interfaces modernas, responsivas e com boa experiência para o usuário.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,git,github)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projeto em destaque
+### Currículo Online
+Landing page pessoal desenvolvida para apresentar minhas habilidades, experiência e projetos.
+
+🔗 Demo: https://viniciushub.github.io/meu-curriculo-online/
+
+## 📊 Estatísticas
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciushub&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciushub&layout=compact&theme=tokyonight)
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/viniciusgustavoti/
+- Email: vinispei2017@gmail.com
